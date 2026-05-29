@@ -1,6 +1,4 @@
-[trades_table.html](https://github.com/user-attachments/files/28374157/trades_table.html)
-# watchlist
-alfa kenny boddy
+[index.html](https://github.com/user-attachments/files/28374329/index.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
